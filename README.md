@@ -1,1 +1,1 @@
-👋 Compiling..
+👋 Compiling C++ project, sometimes Rust.
